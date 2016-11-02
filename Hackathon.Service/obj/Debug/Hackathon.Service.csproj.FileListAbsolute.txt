@@ -1,0 +1,5 @@
+C:\Projects\Hackathon\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Service.dll
+C:\Projects\Hackathon\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Service.pdb
+C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.csprojResolveAssemblyReference.cache
+C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.dll
+C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.pdb
