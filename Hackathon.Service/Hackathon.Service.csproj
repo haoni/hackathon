@@ -45,6 +45,12 @@
   <ItemGroup>
     <Folder Include="Service\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hackathon.Infra\Hackathon.Infra.csproj">
+      <Project>{8ce48b2e-b3dd-45d3-b5e9-c05630099fb4}</Project>
+      <Name>Hackathon.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
