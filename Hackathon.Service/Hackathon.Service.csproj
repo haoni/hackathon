@@ -41,10 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Interface\ITesteService.cs" />
+    <Compile Include="Service\TesteService.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Service\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Hackathon.Infra\Hackathon.Infra.csproj">
       <Project>{8ce48b2e-b3dd-45d3-b5e9-c05630099fb4}</Project>

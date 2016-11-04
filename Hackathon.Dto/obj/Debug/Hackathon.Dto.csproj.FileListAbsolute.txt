@@ -2,3 +2,4 @@ C:\Projects\Hackathon\Hackathon.Dto\bin\Debug\Hackathon.Dto.dll
 C:\Projects\Hackathon\Hackathon.Dto\bin\Debug\Hackathon.Dto.pdb
 C:\Projects\Hackathon\Hackathon.Dto\obj\Debug\Hackathon.Dto.dll
 C:\Projects\Hackathon\Hackathon.Dto\obj\Debug\Hackathon.Dto.pdb
+C:\Projects\Hackathon\Hackathon.Dto\obj\Debug\Hackathon.Dto.csprojResolveAssemblyReference.cache

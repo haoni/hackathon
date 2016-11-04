@@ -6,6 +6,11 @@ namespace Hackathon.Infra.UnitOfWork
     {
         private readonly ITesteRepository _testeRepository;
 
+        public UnitOfWork(ITesteRepository testeRepository)
+        {
+            _testeRepository = testeRepository;
+        }
+
         public ITesteRepository TesteRepository
         {
             get
