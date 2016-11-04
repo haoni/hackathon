@@ -3,3 +3,12 @@ C:\Projects\Hackathon\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Service.pd
 C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.csprojResolveAssemblyReference.cache
 C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.dll
 C:\Projects\Hackathon\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.pdb
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Service.dll
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Service.pdb
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Infra.dll
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\linq2db.dll
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\Hackathon.Infra.pdb
+C:\Projects\Hackathon\Hackathon.Service\bin\Debug\linq2db.pdb
+C:\Projects\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.csprojResolveAssemblyReference.cache
+C:\Projects\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.dll
+C:\Projects\Hackathon\Hackathon.Service\obj\Debug\Hackathon.Service.pdb
